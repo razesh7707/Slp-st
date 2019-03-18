@@ -67,21 +67,27 @@ color:white ;
 font-size: 0.5cm;
 
 }
-table, tr, th ,td {
-	border:2px solid black;
-	border-collapse: collapse;
-	height:50px;
-	margin: 5px;
-	
-	padding: 0px;
+.form{
+	margin: 20px auto;
+	width: 320px;
 }
 
-th{
-	font-size: 25px;
+
+
+
+
+.input-fields {
+	width:100%;
+	padding: 10px;
+	display: block;
+	margin- bottom: 25px;
+	background: transparent;
+	border: 1px solid black;
+	
+
+
 }
-td{
-	font-size: 18px;
-}
+
 .footer{
 	background: url(file:///E:/no/Project/photographer-wallpapers_292125659.jpg);
 	background-size: cover;

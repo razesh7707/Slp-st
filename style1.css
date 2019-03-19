@@ -75,6 +75,10 @@ font-size: 0.5cm;
 	padding: 40px;
 	box-shadow: 0 5px 10px;
 }
+.form h1{
+	margin: 0px;
+	padding: 0px;
+}
 
 
 
@@ -102,7 +106,14 @@ font-size: 0.5cm;
 
 }
 .radio{
-	font- size: 20px;
+	font- size: 20px
+
+	padding: 10px;
+	
+	margin- bottom: 30px;
+	
+	
+	
 }
 button{
 	width:100%;

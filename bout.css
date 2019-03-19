@@ -1,7 +1,11 @@
 body{
-background-image: url(file:///E:/no/Project/background%201.jpg);
-	background-size: cover;
 
+	
+
+}
+.bg{
+	background-image: url(file:///E:/no/Project/background%201.jpg);
+	background-size: cover;
 }
 header{
 	background: url(file:///E:/no/Project/sss%3Bd.jpg);
@@ -67,53 +71,20 @@ color:white ;
 font-size: 0.5cm;
 
 }
-.form{
-	margin: 20px auto;
-	width: 350px;
-	color:#230399;
-	background-color: white;
-	padding: 40px;
-	box-shadow: 0 5px 10px;
-}
-
-
-
-
-
-.input-fields {
-	width:100%;
-	padding: 10px;
-	display: block;
-	margin- bottom: 25px;
-	background: transparent;
-	border: 1px solid #230399;
+table, tr, th ,td {
+	border:2px solid black;
+	border-collapse: collapse;
+	height:50px;
+	margin: 5px;
 	
-
-
+	padding: 0px;
 }
 
-.bar{
-	width:70%;
-	padding: 10px;
-	display: block;
-	margin- bottom: 25px;
-	background: transparent;
-	border: 1px solid #230399;
-
+th{
+	font-size: 25px;
 }
-.radio{
-	font- size: 20px;
-}
-button{
-	width:100%;
-	padding: 20px;
-	display: block;
-	margin- bottom: 25px;
-	background-color: #230399;
-	color: white;
-	font-size: 20px;
-	border: none;
-
+td{
+	font-size: 18px;
 }
 .footer{
 	background: url(file:///E:/no/Project/photographer-wallpapers_292125659.jpg);
